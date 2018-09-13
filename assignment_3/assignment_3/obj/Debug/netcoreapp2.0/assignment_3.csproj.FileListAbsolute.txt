@@ -1,0 +1,11 @@
+D:\Github\Assignment_3\assignment_3\assignment_3\obj\Debug\netcoreapp2.0\assignment_3.csprojResolveAssemblyReference.cache
+D:\Github\Assignment_3\assignment_3\assignment_3\obj\Debug\netcoreapp2.0\assignment_3.csproj.CoreCompileInputs.cache
+D:\Github\Assignment_3\assignment_3\assignment_3\obj\Debug\netcoreapp2.0\assignment_3.AssemblyInfoInputs.cache
+D:\Github\Assignment_3\assignment_3\assignment_3\obj\Debug\netcoreapp2.0\assignment_3.AssemblyInfo.cs
+D:\Github\Assignment_3\assignment_3\assignment_3\bin\Debug\netcoreapp2.0\assignment_3.deps.json
+D:\Github\Assignment_3\assignment_3\assignment_3\bin\Debug\netcoreapp2.0\assignment_3.runtimeconfig.json
+D:\Github\Assignment_3\assignment_3\assignment_3\bin\Debug\netcoreapp2.0\assignment_3.runtimeconfig.dev.json
+D:\Github\Assignment_3\assignment_3\assignment_3\bin\Debug\netcoreapp2.0\assignment_3.dll
+D:\Github\Assignment_3\assignment_3\assignment_3\bin\Debug\netcoreapp2.0\assignment_3.pdb
+D:\Github\Assignment_3\assignment_3\assignment_3\obj\Debug\netcoreapp2.0\assignment_3.dll
+D:\Github\Assignment_3\assignment_3\assignment_3\obj\Debug\netcoreapp2.0\assignment_3.pdb
